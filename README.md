@@ -48,8 +48,7 @@ while True:
 
 <H3> Output:</H3>
 
-![image](https://github.com/user-attachments/assets/9a6de8ab-4250-47b2-bac9-4caec0208619)
-
+![WhatsApp Image 2024-11-14 at 11 58 50_41eec22e](https://github.com/user-attachments/assets/a3daa022-1159-46c8-a47f-71a8c90c7154)
 
 <H3> Result:</H3>
 Thus, we have implemented a program that will transcribe the audio file in the file variable and print the transcribed text on the console, one line at a time.
